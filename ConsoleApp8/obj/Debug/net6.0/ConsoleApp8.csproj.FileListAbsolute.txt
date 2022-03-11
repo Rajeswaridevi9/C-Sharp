@@ -1,0 +1,5 @@
+C:\Users\Dell\Documents\frontend\C-Sharp\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\frontend\C-Sharp\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\frontend\C-Sharp\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\frontend\C-Sharp\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.AssemblyInfo.cs
+C:\Users\Dell\Documents\frontend\C-Sharp\ConsoleApp8\obj\Debug\net6.0\ConsoleApp8.csproj.CoreCompileInputs.cache

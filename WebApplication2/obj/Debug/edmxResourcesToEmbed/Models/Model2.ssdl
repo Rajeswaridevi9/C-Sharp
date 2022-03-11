@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WEBAPIModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="UserRegistration">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="25" />
+    <Property Name="EMail" Type="varchar" MaxLength="25" />
+    <Property Name="GENDER" Type="varchar" MaxLength="25" />
+    <Property Name="USERNAME" Type="varchar" MaxLength="25" />
+    <Property Name="PASSWORD" Type="varchar" MaxLength="25" />
+  </EntityType>
+  <EntityContainer Name="WEBAPIModel1StoreContainer">
+    <EntitySet Name="UserRegistration" EntityType="Self.UserRegistration" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
